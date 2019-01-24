@@ -1,0 +1,7 @@
+a = int(input("Teclea el valor de a: "))
+b = int(input("Teclea el valor de b: "))
+c = int(input("Teclea el valor de c: "))
+d = int(input("Teclea el valor de d: "))
+R = (b*a(a+(a-d-c)))/2
+Costo = R*3450
+print("El costo por metro cuadrado es igual a: ", Costo)
