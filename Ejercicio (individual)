@@ -5,3 +5,7 @@ d = int(input("Teclea el valor de d: "))
 R = (b*a(a+(a-d-c)))/2
 Costo = R*3450
 print("El costo por metro cuadrado es igual a: ", Costo)
+
+Entradas: a (base mayor), b (altura del trapecio), d y c (es la distancia que hay que restarle a "a" para obtener la base menor).
+Salidas: R (área del trapecio), Costo (3450 por m**2 (R))
+El área se obtiene por medio de la fórmula para el área del trapecio, el costo: se multiplica el área por 3450
